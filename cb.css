@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.head{
+    text-align: center;
+    background-color: grey;
+    display: block;
+    border-radius: 10px;
+    padding: 10px;
+}
+.title{
+    font-weight: bold;
+    font-size: 50px;
+    text-shadow: 5px 5px 10px white;
+}
+.form{
+    background-color: white;
+    display: block;
+    padding: 10px;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    width: 500px;
+    border-radius: 20px;
+}
+.option{
+    margin: 10px;
+}
+.date{
+    margin: 15px;
+}
+.r_1{
+    margin: 10px;
+}
+.description textarea{
+    margin-bottom: -15px;
+}
+.description{
+    margin: 25px;
+}
+.b-1{
+    display: inline-block;
+    background-color: rgb(66, 42, 42);
+    border: 2px solid black;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.b-1:hover{
+    cursor: grab;
+    background-color: blue;
+}
+.b-2{
+    display: inline-block;
+    background-color: rgb(66, 42, 42);
+    border: 2px solid black;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.b-2:hover{
+    cursor: grab;
+    background-color: red;
+}
