@@ -1,0 +1,24 @@
+h3{
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+    text-decoration: solid;
+}
+p{
+    text-align: center;
+}
+h4{
+    padding-left: 50px;
+}
+ul{
+    padding-left: 100px;
+}
+/* .background-img{
+    height: 100%;
+    width: 100%;
+    background-image: url("download.png");
+} */
+img{
+    width: 600px;
+    height: 200px;
+    padding-left: 450px;
+}
