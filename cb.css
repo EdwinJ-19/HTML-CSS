@@ -23,6 +23,7 @@ body{
     text-align: center;
     width: 500px;
     border-radius: 20px;
+    margin-bottom: 30px;
 }
 .option{
     margin: 10px;
@@ -64,4 +65,12 @@ body{
 .b-2:hover{
     cursor: grab;
     background-color: red;
+}
+.footer{
+    display: block;
+    background-color: grey;
+    display: block;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
 }
